@@ -20,10 +20,6 @@ y = 3 + 4x + ε
 ---
 # Project Metadata in YAML
 ```yaml
-student:
-  name: Panakanti Nandu
-  id: 123456
-  course: DCS5600
 dataset:
   samples: 200
   x_range: [0, 5]
